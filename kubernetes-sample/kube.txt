@@ -1,0 +1,1 @@
+https://vincentlauzon.com/2019/01/30/custom-logs-on-aks-azure-monitor/
