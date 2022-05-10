@@ -15,3 +15,4 @@ spec:
       - name: random-logger
         image: chentex/random-logger:latest
         command: ["sh", "-c",  "./entrypoint.sh &1> /logfile"]
+        
